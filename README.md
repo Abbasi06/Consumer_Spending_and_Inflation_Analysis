@@ -32,7 +32,7 @@ Our central hypothesis is that shifts in consumer expenditure, including a rise 
 This quantitative analysis combines data from multiple authoritative sources to examine the correlation between consumer behavior and inflation.
 
 ### Data Collection
-- **Sources**: U.S. Bureau of Economic Analysis (BEA), U.S. Bureau of Labor Statistics (BLS), Securities and Exchange Commission (SEC)
+- **Sources**: U.S. Bureau of Economic Analysis (BEA) and U.S. Bureau of Labor Statistics (BLS)
 - **Variables**:
   - **Consumer Expenditure**: Annual consumer spending data
   - **Inflationary Impulses**: Industry-specific inflation rates
